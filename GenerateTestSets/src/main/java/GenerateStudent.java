@@ -81,7 +81,7 @@ class GenerateStudent
     }
 
     private void SaveText(List<Student> students, int size) throws IOException {
-        String filename = "students-" + Integer.toString(size)  + ".txt";
+        String filename = "students-" + size + ".txt";
         File output = new File(filename);
         FileOutputStream fos = new FileOutputStream(output);
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
