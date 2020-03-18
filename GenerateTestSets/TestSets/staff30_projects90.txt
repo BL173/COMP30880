@@ -1,0 +1,90 @@
+Piers Morgan,0,CS
+Piers Morgan,1,CS
+Piers Morgan,2,CS
+Jeff "Comic Book Guy" Albertson,3,CS
+Jeff "Comic Book Guy" Albertson,4,CS
+Jeff "Comic Book Guy" Albertson,5,CS
+Eleanor Rigby,6,CS
+Eleanor Rigby,7,CS
+Eleanor Rigby,8,CS
+Bob Woodward,9,CS
+Bob Woodward,10,CS+DS
+Bob Woodward,11,CS
+Al Gore,12,CS
+Al Gore,13,CS
+Al Gore,14,CS
+General Zod,15,CS
+General Zod,16,CS+DS
+General Zod,17,CS
+Thor Odinson,18,CS
+Thor Odinson,19,CS
+Thor Odinson,20,CS
+Al Bundy,21,DS
+Al Bundy,22,DS
+Al Bundy,23,DS
+Lord Byron,24,CS
+Lord Byron,25,CS+DS
+Lord Byron,26,CS+DS
+Savonarola,27,CS
+Savonarola,28,CS
+Savonarola,29,CS+DS
+Mikhail Gorbachev,30,CS
+Mikhail Gorbachev,31,CS+DS
+Mikhail Gorbachev,32,CS
+Amelia Earhart,33,CS
+Amelia Earhart,34,CS
+Amelia Earhart,35,CS
+Mel Brooks,36,CS
+Mel Brooks,37,CS+DS
+Mel Brooks,38,CS+DS
+James Joyce,39,CS
+James Joyce,40,CS
+James Joyce,41,CS
+Buddha,42,CS
+Buddha,43,CS
+Buddha,44,CS
+Jaime Lannister,45,CS
+Jaime Lannister,46,CS
+Jaime Lannister,47,CS
+Usain Bolt,48,CS
+Usain Bolt,49,CS+DS
+Usain Bolt,50,CS+DS
+Biff Tannen,51,CS
+Biff Tannen,52,CS
+Biff Tannen,53,CS+DS
+Ferdinand Magellan,54,DS
+Ferdinand Magellan,55,DS
+Ferdinand Magellan,56,DS
+Victor Frankenstein,57,CS
+Victor Frankenstein,58,CS
+Victor Frankenstein,59,CS
+Bear Grylls,60,CS
+Bear Grylls,61,CS
+Bear Grylls,62,CS
+Tess Durbeyfield,63,CS
+Tess Durbeyfield,64,CS
+Tess Durbeyfield,65,CS
+Archimedes,66,CS
+Archimedes,67,CS
+Archimedes,68,CS+DS
+Loki Laufeyson,69,DS
+Loki Laufeyson,70,DS
+Loki Laufeyson,71,DS
+Noah,72,DS
+Noah,73,DS
+Noah,74,DS
+Lance Armstrong,75,CS+DS
+Lance Armstrong,76,CS+DS
+Lance Armstrong,77,CS+DS
+Michael Jordan,78,CS+DS
+Michael Jordan,79,CS
+Michael Jordan,80,CS
+Alan Greenspan,81,CS+DS
+Alan Greenspan,82,CS
+Alan Greenspan,83,CS
+Condoleezza Rice,84,DS
+Condoleezza Rice,85,DS
+Condoleezza Rice,86,DS
+Saint Paul,87,CS
+Saint Paul,88,CS+DS
+Saint Paul,89,CS

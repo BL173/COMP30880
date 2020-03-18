@@ -1,0 +1,180 @@
+Weird Al Yankovic,0,CS
+Weird Al Yankovic,1,CS
+Weird Al Yankovic,2,CS+DS
+Dr. Strangelove,3,CS
+Dr. Strangelove,4,CS
+Dr. Strangelove,5,CS+DS
+RuPaul,6,CS
+RuPaul,7,CS
+RuPaul,8,CS
+Derek Zoolander,9,CS
+Derek Zoolander,10,CS+DS
+Derek Zoolander,11,CS
+Emily Dickinson,12,CS+DS
+Emily Dickinson,13,CS
+Emily Dickinson,14,CS
+Norman Bates,15,CS
+Norman Bates,16,CS
+Norman Bates,17,CS+DS
+Thor Odinson,18,CS
+Thor Odinson,19,CS
+Thor Odinson,20,CS
+Colonel Sanders,21,DS
+Colonel Sanders,22,DS
+Colonel Sanders,23,DS
+Ellen DeGeneres,24,CS
+Ellen DeGeneres,25,CS
+Ellen DeGeneres,26,CS
+Rick Deckard,27,CS
+Rick Deckard,28,CS+DS
+Rick Deckard,29,CS
+Voltaire,30,CS
+Voltaire,31,CS
+Voltaire,32,CS+DS
+Chewbacca,33,CS
+Chewbacca,34,CS+DS
+Chewbacca,35,CS+DS
+Rocket Raccoon,36,CS+DS
+Rocket Raccoon,37,CS
+Rocket Raccoon,38,CS+DS
+Batman,39,CS
+Batman,40,CS+DS
+Batman,41,CS
+Commissioner James Gordon,42,CS
+Commissioner James Gordon,43,CS
+Commissioner James Gordon,44,CS
+Jimmy Cagney,45,CS
+Jimmy Cagney,46,CS
+Jimmy Cagney,47,CS
+Jerry Seinfeld,48,CS
+Jerry Seinfeld,49,CS+DS
+Jerry Seinfeld,50,CS
+Sylvester Stallone,51,CS
+Sylvester Stallone,52,CS+DS
+Sylvester Stallone,53,CS
+Madonna,54,DS
+Madonna,55,DS
+Madonna,56,DS
+Dorian Gray,57,CS
+Dorian Gray,58,CS
+Dorian Gray,59,CS
+Kenneth Parcell ,60,CS
+Kenneth Parcell ,61,CS+DS
+Kenneth Parcell ,62,CS
+Al Capone,63,CS+DS
+Al Capone,64,CS+DS
+Al Capone,65,CS
+Lenny Bruce,66,CS
+Lenny Bruce,67,CS+DS
+Lenny Bruce,68,CS+DS
+Nigella Lawson,69,DS
+Nigella Lawson,70,DS
+Nigella Lawson,71,DS
+Pamela Anderson,72,DS
+Pamela Anderson,73,DS
+Pamela Anderson,74,DS
+Barbra Streisand,75,CS+DS
+Barbra Streisand,76,CS
+Barbra Streisand,77,CS
+Lionel Hutz,78,CS+DS
+Lionel Hutz,79,CS
+Lionel Hutz,80,CS+DS
+Marco Pierre White,81,CS
+Marco Pierre White,82,CS
+Marco Pierre White,83,CS+DS
+Auric Goldfinger,84,DS
+Auric Goldfinger,85,DS
+Auric Goldfinger,86,DS
+Megan Fox,87,CS
+Megan Fox,88,CS+DS
+Megan Fox,89,CS
+Florence Nightingale,90,CS
+Florence Nightingale,91,CS+DS
+Florence Nightingale,92,CS
+Bernard Madoff,93,CS
+Bernard Madoff,94,CS
+Bernard Madoff,95,CS
+Joaquin Phoenix,96,CS
+Joaquin Phoenix,97,CS
+Joaquin Phoenix,98,CS
+Bane,99,DS
+Bane,100,DS
+Bane,101,DS
+Baldrick,102,CS
+Baldrick,103,CS+DS
+Baldrick,104,CS+DS
+Nick Fury,105,CS
+Nick Fury,106,CS+DS
+Nick Fury,107,CS
+Johann von Goethe,108,DS
+Johann von Goethe,109,DS
+Johann von Goethe,110,DS
+Spider-Man,111,CS+DS
+Spider-Man,112,CS+DS
+Spider-Man,113,CS+DS
+Philip Marlowe,114,CS
+Philip Marlowe,115,CS
+Philip Marlowe,116,CS
+Le Chiffre,117,CS+DS
+Le Chiffre,118,CS
+Le Chiffre,119,CS
+Krusty the Clown,120,CS+DS
+Krusty the Clown,121,CS
+Krusty the Clown,122,CS
+Jack Sparrow,123,DS
+Jack Sparrow,124,DS
+Jack Sparrow,125,DS
+Euclid,126,DS
+Euclid,127,DS
+Euclid,128,DS
+Katniss Everdeen,129,CS
+Katniss Everdeen,130,CS
+Katniss Everdeen,131,CS
+Ernest Hemingway,132,CS
+Ernest Hemingway,133,CS
+Ernest Hemingway,134,CS+DS
+Kim Philby,135,CS
+Kim Philby,136,CS
+Kim Philby,137,CS+DS
+George Clooney,138,CS
+George Clooney,139,CS
+George Clooney,140,CS
+Daffy Duck,141,CS
+Daffy Duck,142,CS+DS
+Daffy Duck,143,CS
+Pepé Le Pew,144,DS
+Pepé Le Pew,145,DS
+Pepé Le Pew,146,DS
+Grace Kelly,147,DS
+Grace Kelly,148,DS
+Grace Kelly,149,DS
+Saga Norén,150,CS+DS
+Saga Norén,151,CS
+Saga Norén,152,CS
+Neil Armstrong,153,CS
+Neil Armstrong,154,CS+DS
+Neil Armstrong,155,CS
+Peter Rabbit,156,CS
+Peter Rabbit,157,CS
+Peter Rabbit,158,CS
+Arnold Schwarzenegger,159,CS+DS
+Arnold Schwarzenegger,160,CS
+Arnold Schwarzenegger,161,CS
+Romeo Montague,162,CS
+Romeo Montague,163,CS+DS
+Romeo Montague,164,CS
+Roger Federer,165,CS+DS
+Roger Federer,166,CS
+Roger Federer,167,CS+DS
+Anton Chekov,168,CS
+Anton Chekov,169,CS
+Anton Chekov,170,CS+DS
+Mickey Rourke,171,CS+DS
+Mickey Rourke,172,CS+DS
+Mickey Rourke,173,CS+DS
+Amelia Earhart,174,CS
+Amelia Earhart,175,CS
+Amelia Earhart,176,CS
+Ming The Merciless,177,CS
+Ming The Merciless,178,CS
+Ming The Merciless,179,CS

@@ -37,19 +37,19 @@ public class GenerateTestSets {
 
         String results[] = new String[90];
         generateResultsArray(allRows, results, 30);
-        writeToFile(results, "staff30_projects90.txt");
+        writeToFile(results, "TestSets/staff30_projects90.txt");
 
         results = new String[180];
         generateResultsArray(allRows, results, 60);
-        writeToFile(results, "staff60_projects180.txt");
+        writeToFile(results, "TestSets/staff60_projects180.txt");
 
         results = new String[360];
         generateResultsArray(allRows, results, 120);
-        writeToFile(results, "staff120_projects360.txt");
+        writeToFile(results, "TestSets/staff120_projects360.txt");
 
         results = new String[750];
         generateResultsArray(allRows, results, 250);
-        writeToFile(results, "staff250_projects750.txt");
+        writeToFile(results, "TestSets/staff250_projects750.txt");
 
         workbook.close();
         fis.close();
