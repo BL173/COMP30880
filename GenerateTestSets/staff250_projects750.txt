@@ -1,0 +1,750 @@
+Barney Stinson,0,CS+DS
+Barney Stinson,1,CS
+Barney Stinson,2,CS
+Hannibal Lecter,3,CS+DS
+Hannibal Lecter,4,CS
+Hannibal Lecter,5,CS
+Babe Ruth,6,CS+DS
+Babe Ruth,7,CS
+Babe Ruth,8,CS+DS
+Meghan Markle,9,CS
+Meghan Markle,10,CS
+Meghan Markle,11,CS
+Rachel Green,12,CS
+Rachel Green,13,CS+DS
+Rachel Green,14,CS+DS
+Novak Djokovic,15,CS+DS
+Novak Djokovic,16,CS+DS
+Novak Djokovic,17,CS
+Walt Whitman,18,CS
+Walt Whitman,19,CS
+Walt Whitman,20,CS
+Bobby Kennedy,21,DS
+Bobby Kennedy,22,DS
+Bobby Kennedy,23,DS
+Dean Winchester,24,CS
+Dean Winchester,25,CS+DS
+Dean Winchester,26,CS
+Brad Pitt,27,CS
+Brad Pitt,28,CS
+Brad Pitt,29,CS+DS
+Louis Armstrong,30,CS
+Louis Armstrong,31,CS
+Louis Armstrong,32,CS
+Francis Bacon,33,CS
+Francis Bacon,34,CS+DS
+Francis Bacon,35,CS
+Aristotle,36,CS+DS
+Aristotle,37,CS+DS
+Aristotle,38,CS
+Pippi Longstocking,39,CS
+Pippi Longstocking,40,CS
+Pippi Longstocking,41,CS
+Simone de Beauvoir,42,CS+DS
+Simone de Beauvoir,43,CS+DS
+Simone de Beauvoir,44,CS
+Princess Fiona,45,CS
+Princess Fiona,46,CS+DS
+Princess Fiona,47,CS
+Joan of Arc,48,CS
+Joan of Arc,49,CS
+Joan of Arc,50,CS+DS
+Alan Turing,51,CS
+Alan Turing,52,CS
+Alan Turing,53,CS
+Giacomo Casanova,54,DS
+Giacomo Casanova,55,DS
+Giacomo Casanova,56,DS
+Gwyneth Paltrow,57,CS
+Gwyneth Paltrow,58,CS
+Gwyneth Paltrow,59,CS+DS
+Gianni Versace,60,CS+DS
+Gianni Versace,61,CS+DS
+Gianni Versace,62,CS
+Frank Gehry,63,CS
+Frank Gehry,64,CS
+Frank Gehry,65,CS+DS
+Katniss Everdeen,66,CS
+Katniss Everdeen,67,CS+DS
+Katniss Everdeen,68,CS+DS
+Ross Geller,69,DS
+Ross Geller,70,DS
+Ross Geller,71,DS
+Colonel Kurtz,72,DS
+Colonel Kurtz,73,DS
+Colonel Kurtz,74,DS
+Pac Man,75,CS+DS
+Pac Man,76,CS+DS
+Pac Man,77,CS
+Tarzan,78,CS
+Tarzan,79,CS
+Tarzan,80,CS
+Ron Weasley,81,CS+DS
+Ron Weasley,82,CS+DS
+Ron Weasley,83,CS
+John Constantine,84,DS
+John Constantine,85,DS
+John Constantine,86,DS
+Ophelia,87,CS+DS
+Ophelia,88,CS+DS
+Ophelia,89,CS
+Moe Szyslak,90,CS+DS
+Moe Szyslak,91,CS
+Moe Szyslak,92,CS
+Noam Chomsky,93,CS+DS
+Noam Chomsky,94,CS
+Noam Chomsky,95,CS
+Charlie Parker,96,CS
+Charlie Parker,97,CS+DS
+Charlie Parker,98,CS
+Henry Miller,99,DS
+Henry Miller,100,DS
+Henry Miller,101,DS
+Daffy Duck,102,CS+DS
+Daffy Duck,103,CS+DS
+Daffy Duck,104,CS+DS
+Richard Branson,105,CS
+Richard Branson,106,CS
+Richard Branson,107,CS
+Eliza Doolittle,108,DS
+Eliza Doolittle,109,DS
+Eliza Doolittle,110,DS
+Tony Montana,111,CS+DS
+Tony Montana,112,CS
+Tony Montana,113,CS+DS
+Mr. Edward Hyde,114,CS
+Mr. Edward Hyde,115,CS
+Mr. Edward Hyde,116,CS+DS
+Eleanor Roosevelt,117,CS
+Eleanor Roosevelt,118,CS
+Eleanor Roosevelt,119,CS
+Judge Judy Sheindlin,120,CS
+Judge Judy Sheindlin,121,CS
+Judge Judy Sheindlin,122,CS+DS
+Sophocles,123,DS
+Sophocles,124,DS
+Sophocles,125,DS
+Jonathan Swift,126,DS
+Jonathan Swift,127,DS
+Jonathan Swift,128,DS
+Mahatma Gandhi,129,CS
+Mahatma Gandhi,130,CS+DS
+Mahatma Gandhi,131,CS
+Jim Morrison,132,CS+DS
+Jim Morrison,133,CS
+Jim Morrison,134,CS
+Al Capone,135,CS
+Al Capone,136,CS+DS
+Al Capone,137,CS+DS
+Vladimir Putin,138,CS+DS
+Vladimir Putin,139,CS
+Vladimir Putin,140,CS+DS
+LeBron James,141,CS+DS
+LeBron James,142,CS+DS
+LeBron James,143,CS+DS
+Christopher Columbus,144,DS
+Christopher Columbus,145,DS
+Christopher Columbus,146,DS
+Johannes Gutenberg,147,DS
+Johannes Gutenberg,148,DS
+Johannes Gutenberg,149,DS
+Dorothy Parker,150,CS
+Dorothy Parker,151,CS
+Dorothy Parker,152,CS
+Harriet Tubman,153,CS+DS
+Harriet Tubman,154,CS
+Harriet Tubman,155,CS+DS
+Charles Dickens,156,CS+DS
+Charles Dickens,157,CS+DS
+Charles Dickens,158,CS
+Friedrich Nietzsche,159,CS
+Friedrich Nietzsche,160,CS
+Friedrich Nietzsche,161,CS
+Snake Plissken,162,CS
+Snake Plissken,163,CS+DS
+Snake Plissken,164,CS
+John Rambo,165,CS+DS
+John Rambo,166,CS+DS
+John Rambo,167,CS
+Kim Kardashian,168,CS
+Kim Kardashian,169,CS
+Kim Kardashian,170,CS
+Carl Lewis,171,CS+DS
+Carl Lewis,172,CS+DS
+Carl Lewis,173,CS+DS
+Michael Phelps,174,CS
+Michael Phelps,175,CS
+Michael Phelps,176,CS
+Robin Williams,177,CS+DS
+Robin Williams,178,CS
+Robin Williams,179,CS
+Barbra Streisand,180,DS
+Barbra Streisand,181,DS
+Barbra Streisand,182,DS
+Don Vito Corleone,183,CS
+Don Vito Corleone,184,CS
+Don Vito Corleone,185,CS+DS
+Auric Goldfinger,186,CS
+Auric Goldfinger,187,CS
+Auric Goldfinger,188,CS+DS
+Gustavo Fring,189,CS
+Gustavo Fring,190,CS+DS
+Gustavo Fring,191,CS+DS
+Zac Efron,192,CS+DS
+Zac Efron,193,CS
+Zac Efron,194,CS
+Britney Spears,195,DS
+Britney Spears,196,DS
+Britney Spears,197,DS
+Kenneth Parcell ,198,CS
+Kenneth Parcell ,199,CS
+Kenneth Parcell ,200,CS+DS
+Chuck Norris,201,CS
+Chuck Norris,202,CS+DS
+Chuck Norris,203,CS+DS
+Joey Tribbiani,204,CS
+Joey Tribbiani,205,CS+DS
+Joey Tribbiani,206,CS
+Buddy Holly,207,DS
+Buddy Holly,208,DS
+Buddy Holly,209,DS
+Nigella Lawson,210,DS
+Nigella Lawson,211,DS
+Nigella Lawson,212,DS
+Maleficent,213,DS
+Maleficent,214,DS
+Maleficent,215,DS
+Robert Redford,216,DS
+Robert Redford,217,DS
+Robert Redford,218,DS
+Silvio Berlusconi,219,DS
+Silvio Berlusconi,220,DS
+Silvio Berlusconi,221,DS
+Hugh Grant,222,DS
+Hugh Grant,223,DS
+Hugh Grant,224,DS
+Tyler Durden,225,CS
+Tyler Durden,226,CS+DS
+Tyler Durden,227,CS
+Marie Curie,228,CS
+Marie Curie,229,CS
+Marie Curie,230,CS+DS
+Stanley Kowalski,231,DS
+Stanley Kowalski,232,DS
+Stanley Kowalski,233,DS
+Edith Piaf,234,CS
+Edith Piaf,235,CS+DS
+Edith Piaf,236,CS
+Jack Bauer,237,CS+DS
+Jack Bauer,238,CS
+Jack Bauer,239,CS
+Grace Kelly,240,DS
+Grace Kelly,241,DS
+Grace Kelly,242,DS
+Greta Garbo,243,CS
+Greta Garbo,244,CS+DS
+Greta Garbo,245,CS
+Dolly Parton,246,CS
+Dolly Parton,247,CS
+Dolly Parton,248,CS
+Robert Langdon,249,CS+DS
+Robert Langdon,250,CS
+Robert Langdon,251,CS+DS
+Agent Phil Coulson,252,CS+DS
+Agent Phil Coulson,253,CS
+Agent Phil Coulson,254,CS+DS
+Inspector Endeavour Morse,255,DS
+Inspector Endeavour Morse,256,DS
+Inspector Endeavour Morse,257,DS
+Paris Hilton,258,CS
+Paris Hilton,259,CS
+Paris Hilton,260,CS
+George Washington,261,CS
+George Washington,262,CS
+George Washington,263,CS
+Karl Marx,264,CS
+Karl Marx,265,CS
+Karl Marx,266,CS+DS
+Darth Maul,267,CS
+Darth Maul,268,CS
+Darth Maul,269,CS+DS
+P. T. Barnum,270,CS+DS
+P. T. Barnum,271,CS
+P. T. Barnum,272,CS+DS
+Timothy McGee,273,CS
+Timothy McGee,274,CS
+Timothy McGee,275,CS
+Michael O'Leary,276,CS
+Michael O'Leary,277,CS+DS
+Michael O'Leary,278,CS+DS
+Sinead O'Connor,279,DS
+Sinead O'Connor,280,DS
+Sinead O'Connor,281,DS
+Oedipus Rex,282,DS
+Oedipus Rex,283,DS
+Oedipus Rex,284,DS
+Kevin Smith,285,CS
+Kevin Smith,286,CS+DS
+Kevin Smith,287,CS
+Bridget Jones,288,CS
+Bridget Jones,289,CS
+Bridget Jones,290,CS
+Keith Moon,291,CS
+Keith Moon,292,CS+DS
+Keith Moon,293,CS+DS
+David Byrne,294,CS
+David Byrne,295,CS+DS
+David Byrne,296,CS
+Muhammad Ali,297,CS
+Muhammad Ali,298,CS+DS
+Muhammad Ali,299,CS+DS
+Grace Jones,300,CS
+Grace Jones,301,CS+DS
+Grace Jones,302,CS+DS
+Napoleon Solo,303,CS+DS
+Napoleon Solo,304,CS
+Napoleon Solo,305,CS+DS
+Forrest Gump,306,CS+DS
+Forrest Gump,307,CS
+Forrest Gump,308,CS
+Gordon Gekko,309,CS
+Gordon Gekko,310,CS+DS
+Gordon Gekko,311,CS
+Lara Croft,312,DS
+Lara Croft,313,DS
+Lara Croft,314,DS
+Ariel Sharon,315,CS
+Ariel Sharon,316,CS
+Ariel Sharon,317,CS+DS
+Thomas Pynchon,318,CS
+Thomas Pynchon,319,CS+DS
+Thomas Pynchon,320,CS
+Uri Geller,321,CS
+Uri Geller,322,CS
+Uri Geller,323,CS+DS
+Hedda Gabler,324,CS+DS
+Hedda Gabler,325,CS
+Hedda Gabler,326,CS
+Marco Pierre White,327,CS
+Marco Pierre White,328,CS+DS
+Marco Pierre White,329,CS
+Caitlyn Jenner,330,CS+DS
+Caitlyn Jenner,331,CS+DS
+Caitlyn Jenner,332,CS
+Bertie Wooster,333,CS+DS
+Bertie Wooster,334,CS+DS
+Bertie Wooster,335,CS+DS
+Will Smith,336,DS
+Will Smith,337,DS
+Will Smith,338,DS
+Donald Rumsfeld,339,CS
+Donald Rumsfeld,340,CS
+Donald Rumsfeld,341,CS
+Tom Hanks,342,CS
+Tom Hanks,343,CS+DS
+Tom Hanks,344,CS+DS
+Serena Williams,345,CS
+Serena Williams,346,CS
+Serena Williams,347,CS
+H.A.L. 9000,348,DS
+H.A.L. 9000,349,DS
+H.A.L. 9000,350,DS
+Ronald McDonald,351,CS
+Ronald McDonald,352,CS
+Ronald McDonald,353,CS+DS
+Barney Gumble,354,CS
+Barney Gumble,355,CS+DS
+Barney Gumble,356,CS
+Mother Teresa,357,DS
+Mother Teresa,358,DS
+Mother Teresa,359,DS
+Steven Spielberg,360,CS+DS
+Steven Spielberg,361,CS
+Steven Spielberg,362,CS
+Steve Martin,363,CS
+Steve Martin,364,CS
+Steve Martin,365,CS
+Red Sonja,366,CS+DS
+Red Sonja,367,CS
+Red Sonja,368,CS
+Robert E. Lee,369,CS+DS
+Robert E. Lee,370,CS+DS
+Robert E. Lee,371,CS+DS
+Romeo Montague,372,DS
+Romeo Montague,373,DS
+Romeo Montague,374,DS
+Jane Eyre,375,DS
+Jane Eyre,376,DS
+Jane Eyre,377,DS
+Bernard Madoff,378,CS
+Bernard Madoff,379,CS
+Bernard Madoff,380,CS
+Robert De Niro,381,CS+DS
+Robert De Niro,382,CS+DS
+Robert De Niro,383,CS
+Stephen Hawking,384,CS
+Stephen Hawking,385,CS
+Stephen Hawking,386,CS
+Weird Al Yankovic,387,CS
+Weird Al Yankovic,388,CS
+Weird Al Yankovic,389,CS
+Sitting Bull,390,CS+DS
+Sitting Bull,391,CS
+Sitting Bull,392,CS+DS
+J. Edgar Hoover,393,CS
+J. Edgar Hoover,394,CS
+J. Edgar Hoover,395,CS
+Nelson Muntz,396,CS
+Nelson Muntz,397,CS
+Nelson Muntz,398,CS
+David Letterman,399,CS
+David Letterman,400,CS
+David Letterman,401,CS+DS
+Mr. Bean,402,CS+DS
+Mr. Bean,403,CS
+Mr. Bean,404,CS
+Dr. Greg House,405,CS+DS
+Dr. Greg House,406,CS+DS
+Dr. Greg House,407,CS+DS
+Professor Charles Xavier,408,CS+DS
+Professor Charles Xavier,409,CS
+Professor Charles Xavier,410,CS
+Alfred Hitchcock,411,CS
+Alfred Hitchcock,412,CS
+Alfred Hitchcock,413,CS+DS
+Benedict Arnold,414,CS+DS
+Benedict Arnold,415,CS+DS
+Benedict Arnold,416,CS
+Cary Grant,417,CS
+Cary Grant,418,CS
+Cary Grant,419,CS
+Ebenezer Scrooge,420,DS
+Ebenezer Scrooge,421,DS
+Ebenezer Scrooge,422,DS
+Ariana Grande,423,CS+DS
+Ariana Grande,424,CS+DS
+Ariana Grande,425,CS+DS
+Samson,426,CS+DS
+Samson,427,CS
+Samson,428,CS+DS
+Wayne Rooney,429,CS
+Wayne Rooney,430,CS
+Wayne Rooney,431,CS
+Davy Crockett,432,DS
+Davy Crockett,433,DS
+Davy Crockett,434,DS
+Ivanka Trump,435,CS
+Ivanka Trump,436,CS
+Ivanka Trump,437,CS
+Otto von Bismarck,438,DS
+Otto von Bismarck,439,DS
+Otto von Bismarck,440,DS
+Frank Capra,441,CS
+Frank Capra,442,CS
+Frank Capra,443,CS
+Rocky Balboa,444,DS
+Rocky Balboa,445,DS
+Rocky Balboa,446,DS
+Maximus Decimus Meridius,447,DS
+Maximus Decimus Meridius,448,DS
+Maximus Decimus Meridius,449,DS
+Anthony Bourdain,450,CS
+Anthony Bourdain,451,CS
+Anthony Bourdain,452,CS+DS
+Winnie the Pooh,453,CS
+Winnie the Pooh,454,CS
+Winnie the Pooh,455,CS
+Jabba the Hutt,456,DS
+Jabba the Hutt,457,DS
+Jabba the Hutt,458,DS
+Larry King,459,DS
+Larry King,460,DS
+Larry King,461,DS
+Michael Jordan,462,CS+DS
+Michael Jordan,463,CS
+Michael Jordan,464,CS
+Sam Spade,465,CS
+Sam Spade,466,CS
+Sam Spade,467,CS+DS
+Jeremy Clarkson,468,CS
+Jeremy Clarkson,469,CS
+Jeremy Clarkson,470,CS+DS
+Shirley Temple,471,CS+DS
+Shirley Temple,472,CS+DS
+Shirley Temple,473,CS
+Adolf Hitler,474,CS
+Adolf Hitler,475,CS
+Adolf Hitler,476,CS+DS
+Elton John,477,CS+DS
+Elton John,478,CS+DS
+Elton John,479,CS+DS
+Miles Davis,480,DS
+Miles Davis,481,DS
+Miles Davis,482,DS
+Groucho Marx,483,CS
+Groucho Marx,484,CS+DS
+Groucho Marx,485,CS
+Tim Berners-Lee,486,CS
+Tim Berners-Lee,487,CS+DS
+Tim Berners-Lee,488,CS
+Sam Winchester,489,CS+DS
+Sam Winchester,490,CS
+Sam Winchester,491,CS
+Alexander the Great,492,CS
+Alexander the Great,493,CS
+Alexander the Great,494,CS+DS
+Saruman the White,495,CS
+Saruman the White,496,CS+DS
+Saruman the White,497,CS
+Amy Schumer,498,DS
+Amy Schumer,499,DS
+Amy Schumer,500,DS
+Salman Rushdie,501,DS
+Salman Rushdie,502,DS
+Salman Rushdie,503,DS
+Squidward Tentacles,504,CS
+Squidward Tentacles,505,CS+DS
+Squidward Tentacles,506,CS+DS
+Karl Rove,507,CS+DS
+Karl Rove,508,CS
+Karl Rove,509,CS+DS
+Travis Bickle,510,CS+DS
+Travis Bickle,511,CS
+Travis Bickle,512,CS
+Karl Lagerfeld,513,CS
+Karl Lagerfeld,514,CS
+Karl Lagerfeld,515,CS
+Walter Mitty,516,CS
+Walter Mitty,517,CS
+Walter Mitty,518,CS
+Patch Adams,519,CS
+Patch Adams,520,CS+DS
+Patch Adams,521,CS+DS
+Megan Fox,522,CS
+Megan Fox,523,CS
+Megan Fox,524,CS+DS
+The Joker,525,CS
+The Joker,526,CS
+The Joker,527,CS
+Hillary Clinton,528,DS
+Hillary Clinton,529,DS
+Hillary Clinton,530,DS
+Francis Crick,531,CS+DS
+Francis Crick,532,CS
+Francis Crick,533,CS+DS
+George Smiley,534,DS
+George Smiley,535,DS
+George Smiley,536,DS
+Niccolò Paganini,537,CS
+Niccolò Paganini,538,CS
+Niccolò Paganini,539,CS+DS
+Don King,540,CS
+Don King,541,CS
+Don King,542,CS
+Grace Hopper,543,CS+DS
+Grace Hopper,544,CS+DS
+Grace Hopper,545,CS
+Hulk Hogan,546,DS
+Hulk Hogan,547,DS
+Hulk Hogan,548,DS
+Mr. Miyagi,549,CS+DS
+Mr. Miyagi,550,CS
+Mr. Miyagi,551,CS
+Theodore Roosevelt,552,CS
+Theodore Roosevelt,553,CS
+Theodore Roosevelt,554,CS
+Sonny Crockett,555,CS
+Sonny Crockett,556,CS
+Sonny Crockett,557,CS+DS
+Catwoman,558,CS+DS
+Catwoman,559,CS
+Catwoman,560,CS
+John Wilkes Booth,561,CS
+John Wilkes Booth,562,CS+DS
+John Wilkes Booth,563,CS
+Michael J. Fox,564,CS
+Michael J. Fox,565,CS+DS
+Michael J. Fox,566,CS+DS
+Lt. George Colthurst St Barleigh,567,DS
+Lt. George Colthurst St Barleigh,568,DS
+Lt. George Colthurst St Barleigh,569,DS
+John Maynard Keynes,570,CS
+John Maynard Keynes,571,CS
+John Maynard Keynes,572,CS
+Justin Bieber,573,CS
+Justin Bieber,574,CS
+Justin Bieber,575,CS+DS
+Bugs Bunny,576,CS
+Bugs Bunny,577,CS
+Bugs Bunny,578,CS
+Condoleezza Rice,579,CS
+Condoleezza Rice,580,CS
+Condoleezza Rice,581,CS+DS
+Sylvester the Cat,582,CS
+Sylvester the Cat,583,CS+DS
+Sylvester the Cat,584,CS+DS
+Henry Kissinger,585,CS
+Henry Kissinger,586,CS
+Henry Kissinger,587,CS+DS
+Jimmy Cagney,588,CS
+Jimmy Cagney,589,CS
+Jimmy Cagney,590,CS
+Dan Brown,591,DS
+Dan Brown,592,DS
+Dan Brown,593,DS
+Lizzy Bennet,594,CS+DS
+Lizzy Bennet,595,CS
+Lizzy Bennet,596,CS
+Tweety Pie,597,CS
+Tweety Pie,598,CS+DS
+Tweety Pie,599,CS
+Lord Voldemort,600,CS
+Lord Voldemort,601,CS
+Lord Voldemort,602,CS
+Jerry Seinfeld,603,CS
+Jerry Seinfeld,604,CS+DS
+Jerry Seinfeld,605,CS+DS
+Albus Dumbledore,606,CS+DS
+Albus Dumbledore,607,CS
+Albus Dumbledore,608,CS
+Christian Bale,609,CS
+Christian Bale,610,CS+DS
+Christian Bale,611,CS
+Joaquin Phoenix,612,CS+DS
+Joaquin Phoenix,613,CS
+Joaquin Phoenix,614,CS
+Leo Tolstoy,615,CS
+Leo Tolstoy,616,CS
+Leo Tolstoy,617,CS
+Jack Reacher,618,CS+DS
+Jack Reacher,619,CS
+Jack Reacher,620,CS
+Pocahontas,621,CS
+Pocahontas,622,CS
+Pocahontas,623,CS
+Richard Nixon,624,CS
+Richard Nixon,625,CS
+Richard Nixon,626,CS+DS
+Boris Johnson,627,CS
+Boris Johnson,628,CS
+Boris Johnson,629,CS+DS
+Freddy Krueger,630,CS
+Freddy Krueger,631,CS+DS
+Freddy Krueger,632,CS+DS
+Jay Leno,633,CS
+Jay Leno,634,CS+DS
+Jay Leno,635,CS
+William Shakespeare,636,CS
+William Shakespeare,637,CS
+William Shakespeare,638,CS
+Bob Dylan,639,CS
+Bob Dylan,640,CS
+Bob Dylan,641,CS
+Steve Bannon,642,CS
+Steve Bannon,643,CS
+Steve Bannon,644,CS
+Lex Luthor,645,CS
+Lex Luthor,646,CS+DS
+Lex Luthor,647,CS
+Katy Perry,648,DS
+Katy Perry,649,DS
+Katy Perry,650,DS
+Emily Dickinson,651,DS
+Emily Dickinson,652,DS
+Emily Dickinson,653,DS
+Lando Calrissian,654,DS
+Lando Calrissian,655,DS
+Lando Calrissian,656,DS
+Noah,657,CS
+Noah,658,CS
+Noah,659,CS
+Johnny Carson,660,DS
+Johnny Carson,661,DS
+Johnny Carson,662,DS
+Marc Jacobs,663,DS
+Marc Jacobs,664,DS
+Marc Jacobs,665,DS
+Garth Brooks,666,DS
+Garth Brooks,667,DS
+Garth Brooks,668,DS
+Rosa Parks,669,CS
+Rosa Parks,670,CS
+Rosa Parks,671,CS+DS
+Rick Deckard,672,CS
+Rick Deckard,673,CS+DS
+Rick Deckard,674,CS+DS
+Pope Francis,675,CS
+Pope Francis,676,CS
+Pope Francis,677,CS
+Frodo Baggins,678,CS+DS
+Frodo Baggins,679,CS
+Frodo Baggins,680,CS+DS
+Pyotr Ilyich Tchaikovsky,681,CS
+Pyotr Ilyich Tchaikovsky,682,CS
+Pyotr Ilyich Tchaikovsky,683,CS
+King Solomon,684,CS+DS
+King Solomon,685,CS
+King Solomon,686,CS+DS
+Rafael Nadal,687,DS
+Rafael Nadal,688,DS
+Rafael Nadal,689,DS
+Ridley Scott,690,CS
+Ridley Scott,691,CS
+Ridley Scott,692,CS
+Daphne Moon,693,CS
+Daphne Moon,694,CS+DS
+Daphne Moon,695,CS+DS
+James Dean,696,DS
+James Dean,697,DS
+James Dean,698,DS
+Sappho,699,CS+DS
+Sappho,700,CS+DS
+Sappho,701,CS+DS
+Spartacus,702,CS
+Spartacus,703,CS+DS
+Spartacus,704,CS
+Nicolas Cage,705,CS+DS
+Nicolas Cage,706,CS+DS
+Nicolas Cage,707,CS
+Mae West,708,CS+DS
+Mae West,709,CS
+Mae West,710,CS+DS
+Gary Larson,711,CS
+Gary Larson,712,CS
+Gary Larson,713,CS+DS
+Hugh Hefner,714,CS
+Hugh Hefner,715,CS+DS
+Hugh Hefner,716,CS
+Morty Smith,717,CS
+Morty Smith,718,CS+DS
+Morty Smith,719,CS
+Dr. John Watson,720,CS
+Dr. John Watson,721,CS+DS
+Dr. John Watson,722,CS
+Angela Merkel,723,CS
+Angela Merkel,724,CS
+Angela Merkel,725,CS+DS
+Princess Leia Organa,726,CS
+Princess Leia Organa,727,CS+DS
+Princess Leia Organa,728,CS
+Bing Crosby,729,DS
+Bing Crosby,730,DS
+Bing Crosby,731,DS
+Sylvia Plath,732,DS
+Sylvia Plath,733,DS
+Sylvia Plath,734,DS
+Johann Sebastian Bach,735,CS+DS
+Johann Sebastian Bach,736,CS
+Johann Sebastian Bach,737,CS+DS
+Rupert Murdoch,738,CS
+Rupert Murdoch,739,CS
+Rupert Murdoch,740,CS
+Johnny Cash,741,CS
+Johnny Cash,742,CS+DS
+Johnny Cash,743,CS+DS
+O.J. Simpson,744,CS
+O.J. Simpson,745,CS
+O.J. Simpson,746,CS+DS
+Cicero,747,CS+DS
+Cicero,748,CS
+Cicero,749,CS
