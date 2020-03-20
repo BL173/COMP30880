@@ -24,12 +24,14 @@ class GenerateStudent
         while (size != 0){
             String firstName = GetFirstName();
             String lastName = GetLastName();
-            String id = Getid();
+            String myId = Getid();
+            int id = Integer.parseInt(myId);
+            
             String field = "CS";
             if (size > divider){
                 field = "DS";
             }
-
+            
             Student newStudent = new Student(firstName, lastName, id, field);
             students.add(newStudent);
 
